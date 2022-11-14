@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-3zp3xrl_qpxc994li)1kt(3@(2api=f=ylz9jjsqn3mnpycwe6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://bloscot-project.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['bloscot-project.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
